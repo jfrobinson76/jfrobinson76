@@ -16,4 +16,4 @@ Before this: Diageo, AB InBev, Georgian Bay Spirit Co. and DrinksGenius. Since 2
 
 Stillbound, Distill (iOS), FarmAI Ireland and CoastLens are live but their source stays private. The portfolio page says why.
 
-[LinkedIn](https://www.linkedin.com/in/johnfrobinson1) · john.f.robinson@outlook.com
+[LinkedIn](https://www.linkedin.com/in/johnfrobinson1) · john@spiritexec.com
