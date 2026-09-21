@@ -4,7 +4,7 @@ Commercial leader who builds. Partner at [AIMS International Ireland / Spirit Ex
 
 Before this: Diageo, AB InBev, Georgian Bay Spirit Co. and DrinksGenius. Since 2026 I ship software with AI coding agents, as a one-person team.
 
-**The work, with source where it is public:** [jfrobinson76.vercel.app](https://jfrobinson76.vercel.app)
+**The work, with source where it is public:** [jfrobinson76.vercel.app](https://jfrobinson76.github.io)
 
 | | |
 |---|---|
