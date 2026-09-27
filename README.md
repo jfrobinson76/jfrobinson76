@@ -18,6 +18,7 @@ Commercial leader who builds. Nearly 20 years in commercial roles across enterpr
 | [AI Readiness Score](https://stillbound.ai/readiness) | Find out whether your business is ready for AI, in ten questions | live, private |
 | [Distill (iOS)](https://apps.apple.com/us/app/distill-by-stillbound/id6790754014) | Design a whiskey, then find out whether it is any good | App Store · [case study](https://github.com/jfrobinson76/distill) |
 | [distillery-map](https://github.com/jfrobinson76/distillery-map) | A free map of every distillery in the world, with a trust grade on each pin | [live](https://distillerymap.org), open |
+| [stillbound-arcade](https://github.com/jfrobinson76/stillbound-arcade) | Distilling science, taught through five small browser games | [play](https://stillbound-arcade.vercel.app), open |
 | [FarmAI Ireland](https://farmai.ie) | The first AI editorial for Irish farming | live · [case study](https://github.com/jfrobinson76/farmai-ireland) |
 | [CoastLens](https://coastlens.ie) | Where a coastal council should inspect before a storm, not just that one is coming | live, team · [case study](https://github.com/jfrobinson76/coastlens) |
 
