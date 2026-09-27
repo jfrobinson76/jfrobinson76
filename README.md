@@ -20,6 +20,7 @@ Commercial leader who builds. Nearly 20 years in commercial roles across enterpr
 | [distillery-map](https://github.com/jfrobinson76/distillery-map) | A free map of every distillery in the world, with a trust grade on each pin | [live](https://distillerymap.org), open |
 | [stillbound-arcade](https://github.com/jfrobinson76/stillbound-arcade) | Distilling science, taught through five small browser games | [play](https://stillbound-arcade.vercel.app), open |
 | [FarmAI Ireland](https://farmai.ie) | The first AI editorial for Irish farming | live · [case study](https://github.com/jfrobinson76/farmai-ireland) |
+| [Gorey Whiskey Club](https://www.goreywhiskeyclub.ie) | A whiskey club for a market town, and its first festival: seven Irish makers, four venues, one weekend | live · [case study](https://github.com/jfrobinson76/gorey-whiskey-club) |
 | [CoastLens](https://coastlens.ie) | Where a coastal council should inspect before a storm, not just that one is coming | live, team · [case study](https://github.com/jfrobinson76/coastlens) |
 
 #### Before
