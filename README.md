@@ -20,8 +20,8 @@ Commercial leader who builds. Nearly 20 years in commercial roles across enterpr
 | [Distillery Map](https://distillerymap.org) | We believe the world's first open map of distilleries: 6,139 in 141 countries, every pin sourced | live, free · [case study](https://github.com/jfrobinson76/distillerymap) |
 | [Stillbound Arcade](https://stillbound-arcade.vercel.app) | Distilling science, taught through five small browser games | [play](https://stillbound-arcade.vercel.app) · [case study](https://github.com/jfrobinson76/arcade) |
 | [FarmAI Ireland](https://farmai.ie) | The first AI editorial for Irish farming | live · [case study](https://github.com/jfrobinson76/farmai-ireland) |
-| [Gorey Whiskey Club](https://www.goreywhiskeyclub.ie) | A whiskey club for a market town, and its first festival: seven Irish makers, four venues, one weekend | live · [case study](https://github.com/jfrobinson76/gorey-whiskey-club) |
-| [CoastLens](https://coastlens.ie) | Where a coastal council should inspect before a storm, not just that one is coming | live, team · [case study](https://github.com/jfrobinson76/coastlens) |
+| [Gorey Whiskey Club](https://www.goreywhiskeyclub.ie) | A whiskey club for a market town, and its first festival: seven Irish makers, four venues, one weekend | live · [case study](https://github.com/jfrobinson76/goreywhiskeyclub.ie) |
+| [CoastLens](https://coastlens.ie) | Where a coastal council should inspect before a storm, not just that one is coming | live, team · [case study](https://github.com/jfrobinson76/coastlens.ie) |
 
 #### Before
 
